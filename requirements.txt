@@ -1,9 +1,5 @@
-# Core Framework
-streamlit==1.35.0
-
-# Data Manipulation
-pandas==2.2.2
-numpy==1.26.4
-
-# Machine Learning Model
-catboost==1.2.5
+streamlit
+pandas
+numpy
+pickle
+catboost
