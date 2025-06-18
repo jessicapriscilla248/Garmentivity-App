@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-from catboost import CatBoostClassifier
 
 # --- 1. Set Streamlit Page Configuration ---
 st.set_page_config(layout="wide", page_title="Garment Worker Productivity Predictor")
